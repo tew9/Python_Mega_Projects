@@ -1,0 +1,10 @@
+Activity type: Deposit:: $500:: on Sep-21, 2018 at 19:58:48::location: Bellevue,Nebraska,US
+-----------------------------------------------------------
+Activity type: Deposit:: $1000:: on Sep-21, 2018 at 19:58:48::location: Bellevue,Nebraska,US
+-----------------------------------------------------------
+Activity type: transferred from checking:: $200.0:: on Feb-09, 2019 at 21:28:30::location: ,,US
+-----------------------------------------------------------
+Activity type: Deposit:: $1200:: on Feb-09, 2019 at 21:28:30::location: ,,US
+-----------------------------------------------------------
+Activity type: Withdrawing:: $500:: on Feb-09, 2019 at 21:32:45::location: ,,US
+-----------------------------------------------------------
